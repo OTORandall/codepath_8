@@ -24,7 +24,7 @@ Vulnerability #1:
 Vulnerability #2: 
 * Session Hijacking/Fixation
 * When the target log in the the blue website, we get the session ID from it. We open another blue website in other brower and we haven't log in yet. Now we set the session ID we acquire from the loged in website in the new blue website throuht the link "public/hacktools/change_session_id.php" and then when we go back to the website we now log in already.
-* GIF Walkthrough: <img src='http://i.imgur.com/oyLhX9V.gif' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
+* GIF Walkthrough: <img src='' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
 
 
 
@@ -51,7 +51,7 @@ Vulnerability #1:
 Vulnerability #2: 
 * Cross-Site Request Forgery
 * Description: 
-* GIF Walkthrough: <img src='http://i.imgur.com/oyLhX9V.gif' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
+* GIF Walkthrough: <img src='' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
                
 
 
